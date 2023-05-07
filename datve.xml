@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datves>
+    <datve>
+        <Stt>1</Stt>
+        <film>1</film>
+        <sl>1</sl>
+        <time>1</time>
+    </datve>
+    <datve>
+        <Stt>2</Stt>
+        <film>1</film>
+        <sl>1</sl>
+        <time>1</time>
+    </datve>
+    <datve>
+        <Stt>3</Stt>
+        <film>hoang dinh</film>
+        <sl>1</sl>
+        <time>1</time>
+    </datve>
+    <datve>
+        <Stt>4</Stt>
+        <film>1</film>
+        <sl>1</sl>
+        <time>22-04-2002 05:30:22</time>
+    </datve>
+    <datve>
+        <Stt>5</Stt>
+        <film>1</film>
+        <sl>1</sl>
+        <time>22-04-2002 05:30:22</time>
+    </datve>
+    <datve>
+        <Stt>6</Stt>
+        <film>1</film>
+        <sl>1</sl>
+        <time>22-04-2002 05:30:22</time>
+    </datve>
+    <datve>
+        <Stt>7</Stt>
+        <film>2</film>
+        <sl>2</sl>
+        <time>22-04-2002 05:30</time>
+    </datve>
+    <datve>
+        <Stt>8</Stt>
+        <film>2</film>
+        <sl>2</sl>
+        <time>22-04-2002 05:30:22</time>
+    </datve>
+    <datve>
+        <Stt>9</Stt>
+        <film>4</film>
+        <sl>4</sl>
+        <time>22-04-2002 05:30</time>
+    </datve>
+</datves>
